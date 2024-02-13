@@ -4,8 +4,8 @@ import requests
 print("⚡️ Welcome to Infinite Craft Cracked")
 
 if len(sys.argv) > 2:
-    item1 = sys.argv[2]
-    item2 = sys.argv[3]
+    item1 = sys.argv[1]
+    item2 = sys.argv[2]
 else:
     item1 = input("Enter first item: ")
     item2 = input("Enter second item: ")
