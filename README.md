@@ -1,15 +1,10 @@
-# infinite-crafter-cracked
+# Infinite Crafter Cracked
 
-To install dependencies:
+This project uses the API used in the Infinite Miner game on the [neal.fun](https://neal.fun/) website in order to craft two items of _your_ choosing.
 
-```bash
-bun install
-```
+## Setup
 
-To run:
-
-```bash
-bun run index.ts
-```
-
-This project was created using `bun init` in bun v1.0.15. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
+1. Install [Bun](https://bun.sh/) if you haven't already
+2. Clone this repo
+3. Run `bun install` in this directory
+4. Run `bun craft` and blend items to your heart's content.
