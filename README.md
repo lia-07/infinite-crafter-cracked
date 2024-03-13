@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> Unfortunately, this project no longer works due to the API getting patched.
+
 # Infinite Crafter Cracked
 
 This project uses the API used in the Infinite Miner game on the [neal.fun](https://neal.fun/) website in order to craft two items of _your_ choosing. May be buggy, I'm not going to maintain this much.
